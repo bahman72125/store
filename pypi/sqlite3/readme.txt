@@ -1,0 +1,1 @@
+pip install --no-index --find-links=. SQLite3-0611
